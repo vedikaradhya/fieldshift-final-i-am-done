@@ -1,0 +1,12 @@
+
+> agrispace-web@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v8.3.6  ready in 580 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.31.89:5173/  en0
+1:45:29 pm [vite] (client) hmr update /src/main.tsx
+1:46:36 pm [vite] (client) hmr update /src/styles.css
+1:54:32 pm [vite] (client) hmr update /src/main.tsx
